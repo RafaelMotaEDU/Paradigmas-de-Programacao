@@ -1,1 +1,1 @@
-# Paradigmas-de-Programa-o
+# Paradigmas-de-Programacao
